@@ -1,4 +1,4 @@
-```python
+
 import csv
 
 # Predefined stock prices
@@ -100,4 +100,3 @@ else:
     print("No stocks were added to your portfolio.")
 
 print("\nThank you for using Stock Portfolio Tracker!")
-```
